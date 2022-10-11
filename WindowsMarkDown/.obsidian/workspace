@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "fff6bb677cfbb740",
+    "type": "split",
+    "children": [
+      {
+        "id": "32f83c4eb9d53107",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习/Java/尚硅谷/Java/SSM/SSM.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50f7b10226bd4c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d2f02534999447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "403c0f8eda046e76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d391a535f13d031",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "789f3cce68f2b5ab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb67d4e02960b8b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "df62e3d6cd097342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d98d122f25bc6af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习/Java/尚硅谷/Java/SSM/SSM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c24901a9534b3628",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习/Java/尚硅谷/Java/SSM/SSM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e52665f993afd3cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70a0917729ab7857",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/Java/尚硅谷/Java/SSM/SSM.md"
+              }
+            }
+          },
+          {
+            "id": "5cacb20c535ad433",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e78c2a9e0ce1fdf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "32f83c4eb9d53107",
+  "lastOpenFiles": [
+    "学习/Java/尚硅谷/Java/SSM/assets/Pasted image 20221011152706.png",
+    "学习/Java/尚硅谷/Java/SSM/assets/Pasted image 20221011152413.png",
+    "学习/Java/尚硅谷/Java/SSM/assets/Pasted image 20221011215312.png",
+    "学习/Java/尚硅谷/Java/SSM/assets/Pasted image 20221011160345.png",
+    "学习/Java/尚硅谷/Java/SSM/assets/Pasted image 20221011121745.png",
+    "学习/Java/尚硅谷/Java/SSM/assets/Pasted image 20221011121736.png",
+    "学习/Java/尚硅谷/Java/SSM/assets/Pasted image 20221011121727.png",
+    "学习/Java/尚硅谷/Java/SSM/SSM.md",
+    "学习/Java/BasicForJava/BasicForJava.md",
+    "SSM整合.pdf"
+  ]
+}
